@@ -1,16 +1,29 @@
-/*background*/
+/*Global*/
+body {
+      background: aquamarine;
+  }
 img { 
       width : 50%; 
   }
+/*Layout*/
 
-  body {
-      background: aquamarine;
-  }
-#one {
-    background: blueviolet;
-    height: 100px;
+
+
+
+/*Typography*/
+
+
+
+
+/*Navigation*/
+
+a{
+color:black;
+    display: block;
+    height: 50px;
     width: 100px;
 }
-ahref {
-color: black;
+li{
+    background: blueviolet;
+    display: inline-block;
 }
