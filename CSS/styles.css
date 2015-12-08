@@ -3,9 +3,9 @@ body {
       background: aquamarine;
   }
 img { 
-      width : 50%; 
+      width : 75%; 
   }
-  1 {
+  h1 {
     color: #706B62; 
     font-size: 70px;
   
@@ -30,20 +30,7 @@ width: 320px;
 }
 
 
-.col1 {
-  width: 38%;
-    float: left;
-    display: fixed;
-    
-  
-}
 
-.col2 {
-  width: 58%;
-    float: right;
-    color: #D6D5C4;
-    display: fixed;
-}
 p {
     color: #D6D5C4;
 }
@@ -72,14 +59,16 @@ article {
 /*Layout*/
 
 html {
- background: url("http://static.flavors.me/dynamic_images/background/2c00c751009d40cd912244797eee2844");
+ background:
  }
 
 
 
 /*Typography*/
 
-
+#index {
+    color:darksalmon;
+}
 
 
 /*Navigation*/
