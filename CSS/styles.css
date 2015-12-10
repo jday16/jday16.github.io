@@ -1,6 +1,6 @@
 /*Global*/
 body {
-      background: aquamarine;
+      background-color: aquamarine;
   }
 img { 
       width : 75%; 
@@ -47,10 +47,6 @@ article {
 }
   
 /*Layout*/
-
-html {
- background:
- }
 
 
 
