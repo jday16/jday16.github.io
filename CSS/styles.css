@@ -42,10 +42,35 @@ h2 {
     
 }
 
+h1, h2, nav, li, p, div {
+    font-family: 'Lobster', cursive;
+}
 
 
 
 /*Navigation*/
 
+nav {
+text-align:center;
+}
 
+nav ul {
+display:inline-block;
+list-style:none;
+}
 
+ html nav ul { 
+display:inline;
+}
+
+nav li {
+display:inline;   
+}
+
+nav a {
+float:left;
+text-decoration:none; 
+padding:0 30px; 
+color: #AB4d00;
+font-size: 30px;
+}
