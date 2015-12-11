@@ -31,6 +31,20 @@ h2 {
 
 /*Layout */
 
+.gallery {
+  height: 500px;
+}
+.item {
+  text-align: center;
+}
+
+.item img {
+  width: 400px;  
+}
+
+.controls img {
+  width: 50px;
+}
 
 
 
