@@ -24,7 +24,7 @@ h2 {
 }
 
 #aboutimg {
-    width:  65%;
+    width:  30%;
 }
 
 /*Layout */
@@ -45,7 +45,7 @@ h2 {
 }
 
 .col1 {
-  width: 38%;
+  width: 42%;
     float: left;
     display: fixed;
 }
@@ -68,7 +68,10 @@ h1, h2, nav, li, p, div {
     font-family: 'Lobster', cursive;
 }
 
-
+.name {
+    color:#706B62;
+    font-style: oblique
+}
 
 /*Navigation*/
 
