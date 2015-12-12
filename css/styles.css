@@ -5,7 +5,7 @@ body {
   }
 
 img { 
-      width : 75%; 
+      width : 75%;
   }
 
   h1 {
@@ -44,7 +44,19 @@ h2 {
   width: 50px;
 }
 
+.col1 {
+  width: 38%;
+    float: left;
+    display: fixed;
+    
+  
+}
 
+.col2 {
+  width: 58%;
+    float: right;
+    display: fixed;
+}
 
 
 /*Typography*/
